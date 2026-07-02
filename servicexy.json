@@ -1,0 +1,9 @@
+{
+  "oauth": {
+    "createdate": "2026-07-01T08:48:11.285Z",
+    "clientid": "sb-79a8e762-d7fb-4d99-893d-9b69dd4b25e0!b671521|it-rt-7a6f0292trial!b26655",
+    "clientsecret": "1ef5fc53-63f1-4a0e-b787-35ef8bde07b7$6md9QquhgbTt3wG0KGML761Oq5KeQwuUz1QdfafPY2E=",
+    "tokenurl": "https://7a6f0292trial.authentication.us10.hana.ondemand.com/oauth/token",
+    "url": "https://7a6f0292trial.it-cpitrial05-rt.cfapps.us10-001.hana.ondemand.com"
+  }
+}
